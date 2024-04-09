@@ -1,0 +1,24 @@
+footer{
+    width: 100%;
+    background: linear-gradient(to right, #1c309f, #11142a);
+    color: #fff;
+    padding: 100px 0 30px;
+    border-top-left-radius: 125px;
+    font-size: 13px;
+    line-height: 20px;
+}
+.row{
+    width: 85%;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.col{
+    width: 200px;
+    padding: 10px;
+}
+.col a{
+    color: #fff;
+}
