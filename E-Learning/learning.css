@@ -1,0 +1,37 @@
+*{
+    color: white;
+}
+.container{
+    margin-top: 50px;
+    text-align: center;
+}
+.formInput{
+    width: 900px;
+    height: 25px;
+    color: black;
+    background-color: white;
+    font-size: 20px;
+    padding: 15px;
+    border-radius: 10px;
+}
+.btnSearch{
+    background-color: purple;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+    border: transparent;
+    margin-bottom: 20px;
+}
+#videos{
+    margin: 20px;
+}
+#p{
+    text-align: left;
+    margin-left: 30px;
+    font-size: 30px;
+}
+
+body{
+    /* background-color: purple; */
+    background: linear-gradient(to right, #2696E9, #11142a);
+}

@@ -1,0 +1,57 @@
+body {
+    text-align: center ;
+        font-family: muli-regular;
+        color:#1a1313;
+        font-size: 14px;
+        max-height: fit-content;
+        background-image: url(depositphotos_119856466-stock-photo-happy-kids-silhouettes-sunset-background.jpg);
+        background-color: rgb(220, 246, 246);
+        background-size: 100vw 70vh;
+        background-repeat: no-repeat;
+        display: flex;
+        align-items: center;
+
+    }   
+    .error{
+        color: red;
+    }
+    #hint{
+        font-size: 10px;
+    }
+    form {
+        font-size: 19px;
+        color: white;
+        text-align: center ;
+        margin: auto;
+        width: fit-content;
+    background-image:url(water-50.gif);
+    }
+    
+    .field{
+    
+        border: 1px solid #ccc;
+        display: block;
+        width: 9cm;
+        height: 5px;
+        padding:  20px;
+        border-radius: 20px;
+        font-family: muli-bold;
+        font-size: 17px;
+        color: rgba(255, 255, 255, 0.871);
+        background-color:rgb(75, 111, 160);
+    }
+    .BTN {
+        width: 152px;
+        height: 40px;
+        margin: auto;
+        margin-top: 29px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 0;
+        background: #ae3c33;
+        font-size: 13px;
+        color: #fff;
+        font-family: muli-semibold;
+        border-radius: 20px;
+    }
